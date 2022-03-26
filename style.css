@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    color: whitesmoke;
+    color: darkgray;
 }
 .player{
     height: 95vh;
@@ -53,7 +53,7 @@ body{
     margin-bottom: 30px;
 }
 .active{
-    color: black;
+    color: white;
 }
 .repeat-track,
 .random-track,
@@ -93,7 +93,7 @@ body{
     appearance: none;
     width: 15px;
     height: 15px;
-    background: white;
+    background: darkgray;
     border: 3px solid #3774ff;
     cursor: pointer;
     border-radius: 100%;
@@ -124,7 +124,7 @@ i.fa-step-backward{
     cursor: pointer;
 }
 .randomActive{
-    color: black;
+    color: white;
 }
 .rotate{
     animation: rotation 8s infinite linear;
